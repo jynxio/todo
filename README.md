@@ -3,6 +3,7 @@
 ## 🤷‍
 - 实现B树索引
 - 实现R树空间索引
+- 更名 `toy-storm` 项目，并应用R树来加速融合
 - 实现Promise
 
 ## three.js
